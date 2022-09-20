@@ -1,0 +1,14 @@
+html{
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#div1{
+    display: flex;
+}
+table{
+    border: 2px solid #000;
+}
+body{
+    background-color: rgb(133, 139, 170);
+    display: flex;
+}
